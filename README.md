@@ -1,2 +1,2 @@
 # IntroBot
-A program to help with global communication.
+A program to assist global communication.
