@@ -1,3 +1,19 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-ARDUINO
+JAVASCRIPT
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+console.log("Hello, my name is Daren");
+console.log("Hola, mi nombre es Daren");
+console.log("Bonjour, je m'appelle Daren");
+console.log("Hallo, mein Name ist Daren");
+console.log("Ciao, mi chiamo Daren");
+console.log("Olá, meu nome é Daren");
+console.log("Hallo, mijn naam is Daren");
+console.log("Привет, меня зовут Дарен");
+console.log("你好，我的名字是达伦");
+console.log("こんにちは、私の名前はダレンです");
+console.log("안녕하세요, 제 이름은 다렌입니다");
+console.log("مرحباً، اسمي دارين");
+console.log("नमस्ते, मेरा नाम डैरेन है");
+console.log("Salve, nomen meum est Daren");
+
