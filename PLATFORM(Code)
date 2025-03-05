@@ -84,5 +84,24 @@ echo "Salve, nomen meum est Daren\n";
 C++
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#include <iostream>
+using namespace std;
 
+int main() {
+    cout << "Hello, my name is Daren" << endl;
+    cout << "Hola, mi nombre es Daren" << endl;
+    cout << "Bonjour, je m'appelle Daren" << endl;
+    cout << "Hallo, mein Name ist Daren" << endl;
+    cout << "Ciao, mi chiamo Daren" << endl;
+    cout << "Olá, meu nome é Daren" << endl;
+    cout << "Hallo, mijn naam is Daren" << endl;
+    cout << "Привет, меня зовут Дарен" << endl;
+    cout << "你好，我的名字是达伦" << endl;
+    cout << "こんにちは、私の名前はダレンです" << endl;
+    cout << "안녕하세요, 제 이름은 다렌입니다" << endl;
+    cout << "مرحباً، اسمي دارين" << endl;
+    cout << "नमस्ते, मेरा नाम डैरेन है" << endl;
+    cout << "Salve, nomen meum est Daren" << endl;
+    return 0;
+}
 
