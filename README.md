@@ -1,2 +1,2 @@
-# Lang IQ
+# Lang IQ™
 A program to assist global communication.
