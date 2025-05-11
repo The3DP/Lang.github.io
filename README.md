@@ -1,5 +1,6 @@
-# Lang IQ™
-A program to assist global communication.
+Lang (short for language) is a 
+helpful program designed to assist
+global communication.
 ##
 The code IS the description.
 ##
