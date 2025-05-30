@@ -1,3 +1,6 @@
+<p align="center"> Lang
+
+##
 Lang (short for language) is a 
 helpful program designed to assist
 global communication.
