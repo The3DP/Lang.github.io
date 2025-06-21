@@ -13,5 +13,3 @@ CC0 1.0 Universal" please contact me at my public email:
 d73928430@gmail.com
 
 - The3DP
-##
->This repository is fully (100%) complete.
