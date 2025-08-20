@@ -23,4 +23,4 @@ For any questions related to licensing or use, feel free to contact me at:
 
 — **The3DP**
 
-![60% Complete](https://img.shields.io/badge/Progress-100%25-darkorange)
+![60% Complete](https://img.shields.io/badge/Progress-60%25-darkorange)
