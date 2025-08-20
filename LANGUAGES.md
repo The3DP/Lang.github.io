@@ -10,34 +10,34 @@
 ### Italian
 ### Greek
 ### Swedish
-###Dutch
- Polish
- Czech
- Romanian
- Mandarin Chinese
- Cantonese
- Tibetan
- Burmese
- Hakka
- Swahili
- Yoruba
- Igbo
- Shona
- Zulu
- Amharic
- Kinyarwanda
- Arabic
- Hebrew
- Amharic
- Somali
- Hausa
- Tagalog (Filipino)
- Javanese
- Cebuano
- Malay (Indonesian/Malay)
- Hawaiian
- Turkish
- Kazakh
+### Dutch
+### Polish
+### Czech
+### Romanian
+### Mandarin Chinese
+### Cantonese
+### Tibetan
+### Burmese
+### Hakka
+### Swahili
+### Yoruba
+### Igbo
+### Shona
+### Zulu
+### Amharic
+### Kinyarwanda
+### Arabic
+### Hebrew
+### Amharic
+### Somali
+### Hausa
+### Tagalog (Filipino)
+### Javanese
+### Cebuano
+### Malay (Indonesian/Malay)
+### Hawaiian
+### Turkish
+### Kazakh
  Uzbek
  Azerbaijani
  Uighur
