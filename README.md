@@ -1,6 +1,6 @@
 ## Lang
 
-**Lang** (short for *language*) is a lightweight, purposeful program built to support and enhance global communication.
+**Lang** (short for *language*) is a lightweight, purposeful program built to support and enhance global, as well as digital communication.
 
 ---
 
