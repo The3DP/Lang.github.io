@@ -1,0 +1,1 @@
+{\n    "require": {\n        "php": "^7.2",\n        "monolog/monolog": "^2.0"\n    }\n}
